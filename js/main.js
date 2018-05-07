@@ -125,9 +125,6 @@ canvas.onclick = function(e) {
                     window.alert("你赢了");
                     // 游戏结束
                     over = true;
-
-                    me = !me;
-                    startGame();
                 }
             }
         }

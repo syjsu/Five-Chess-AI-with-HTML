@@ -147,8 +147,6 @@ function airingGo() {
             if (airingWin[k] == 5) {
                 window.alert("你输了!");
                 over = true;
-                
-                startGame();
             }
         }
     }
